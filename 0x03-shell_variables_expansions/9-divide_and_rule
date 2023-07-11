@@ -1,2 +1,2 @@
 #!/bin/bash
-POWER=42784; DIVIDE=32; x=$(( POWER/DIVIDE )); echo $x
+echo $((POWER/DIVIDE))
