@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE=1209; y=$((128+TRUEKNOWLEDGE)); echo $y
+echo $((128+TRUEKNOWLEDGE))
