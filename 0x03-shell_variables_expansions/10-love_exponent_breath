@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=4; LOVE=3; x=$(( BREATH**LOVE )); echo $x
+echo $(( BREATH**LOVE ))
